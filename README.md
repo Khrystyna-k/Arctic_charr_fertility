@@ -5,6 +5,12 @@ Kurta, K., Jeuthe, H., de Koning, D. J., & Palaiokostas, C. (2022) Evaluating th
 
 ## Data Analysis Workflow
 
+<img width="683" height="554" alt="image" src="https://github.com/user-attachments/assets/20856045-086e-40a3-adc2-b85d858a34a8" />
+
+## Highlighted Results 
+
+<img width="568" height="451" alt="image" src="https://github.com/user-attachments/assets/31d998da-9f98-41b7-b5a4-6df55d696cef" />
+
 
 
 
