@@ -9,7 +9,8 @@ Kurta, K., Jeuthe, H., de Koning, D. J., & Palaiokostas, C. (2022) Evaluating th
 
 ## Highlighted Results 
 
-<img width="568" height="451" alt="image" src="https://github.com/user-attachments/assets/31d998da-9f98-41b7-b5a4-6df55d696cef" />
+<img width="554" height="443" alt="image" src="https://github.com/user-attachments/assets/1a81d61d-89de-4134-981d-84cac0f6d68c" />
+
 
 
 
